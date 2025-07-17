@@ -1,11 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is dependant on the following, please install and run
+
+    git clone https://github.com/rizrahmanuk/spring-boot-backend
 
 ## Available Scripts
 
 In the project directory, you can run:
 Install dependancies in node_module folder
+
 ### `npm install`
 
 ### `npm start`
